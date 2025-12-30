@@ -1,119 +1,310 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<h2 align="center">
-    ──「 ʟɪɴᴋs sʜᴀʀᴇ ʙᴏᴛ 」──
-</h2>
-
 <p align="center">
-  <img src="https://telegra.ph/file/42aced60d325f8b1c38b8-4142b15de724c8de88.jpg">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟɪɴᴋs sʜᴀʀᴇ ʙᴏᴛ](https://t.me/linkssharebot)**_
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://telegra.ph/file/64d61b1f3933fbc18925e-4ba9274225dadacc17.jpg" width="90px" style="border-radius: 50%;" />
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=Hey+There,+This+is+LinkShareBot+%F0%9F%A5%80+%E2%9D%97%EF%B8%8F" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 <p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+  <img src="https://komarev.com/ghpvc/?username=LinkShareBot&style=flat-square" />
 </p>
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&width=500&lines=Welcome+to+LinkShareBot;Your+Ultimate+Telegram+Link+Sharing+Bot" />
+</h1>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ProYato/LinkShareBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center">
+  <a href="https://t.me/LinkShareBot">
+    <img src="https://telegra.ph/file/86ee10d05289af41720e9-51ee4d6108f7131e02.jpg" width="600">
+  </a>
+</p>
 
-<h3 align="center">
-    ─「 ᴅᴇᴘʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
-</h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&https://github.com/ProYato/LinkShareBot=&branch=main&name=AutoReanemBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Koyeb-black?style=for-the-badge&logo=Koyeb" width="220" height="38.45"/></a></p>
-</h3>
+<p align="center">
+  <a href="https://t.me/LinkShareBot"><img src="https://img.shields.io/badge/Try%20Bot-@LinkShareBot-blue?style=for-the-badge&logo=telegram"/></a>
+</p>
 
-## ғᴇᴀᴛᴜʀᴇs
-- Add, remove, and manage unlimited Telegram channels
-- Fast invite link generation (normal & join request)
-- Invite links auto-revoke after 5 minutes for copyright issues
-- Bulk and single link management
-- Auto request approval management
-- Show all channel IDs and names with /channels 
-- Force subscription (FSub) support (public repo me nhi krunga add gand marao)
-- Store and encode any external link with /genlink (no need to make admin in channel)
-- dynamic add admin/ remove admin feature
-- Broadcast, stats, and status commands
-- User-friendly interface with inline buttons and status messages
-- Fully customizable and easy to deploy
+<p align="center">
+  <a href="https://github.com/yourusername/LinkShareBot/stargazers"><img src="https://img.shields.io/github/stars/yourusername/LinkShareBot?style=flat-square"/></a>
+  <a href="https://github.com/yourusername/LinkShareBot/network/members"><img src="https://img.shields.io/github/forks/yourusername/LinkShareBot?style=flat-square"/></a>
+  <a href="https://github.com/yourusername/LinkShareBot/issues"><img src="https://img.shields.io/github/issues/yourusername/LinkShareBot?style=flat-square"/></a>
+  <a href="https://github.com/yourusername/LinkShareBot/commits/main"><img src="https://img.shields.io/github/last-commit/yourusername/LinkShareBot?style=flat-square"/></a>
+  <a href="https://github.com/yourusername/LinkShareBot/actions"><img src="https://img.shields.io/badge/CI-Status-grey?style=flat-square"/></a>
+</p>
 
-<details><summary><b> - ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴠᴀʀɪᴀʙʟᴇs :</summary>
-  
-## ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴠᴀʀɪᴀʙʟᴇs
+## 🌟 What is LinkShareBot?
+
+**LinkShareBot** is a modern Telegram bot that allows you to share and manage unlimited Telegram channel links with automatic invite link generation and management. 
+
+Powered by **Pyrogram**, it provides a seamless experience for users to join channels through secure, auto-expiring links. The bot includes advanced features like force subscription, bulk link generation, and request link management.
+
+## 🚀 Features
+
+<table>
+<tr>
+<td>
+  <img src="https://telegra.ph/file/6478c4b60d9164beb39d2-14a358dcdc0a18b5a5.jpg" width="300" />
+</td>
+<td>
+
+| 🌟 Feature                | 🔎 Description                              |
+| ------------------------- | ------------------------------------------- |
+| 📺 Unlimited Channels     | Add and manage unlimited Telegram channels  |
+| 🔗 Auto Invite Links      | Generate secure, auto-expiring invite links |
+| ⏱️ Auto Revoke            | Links automatically revoke after 5 minutes  |
+| 📦 Bulk Generation        | Generate links for multiple channels at once |
+| 📋 Pagination Support     | Navigate through large channel lists easily |
+| 🔄 Request Links          | Support for join request links              |
+| 🛡️ Force Subscription     | Require users to join specific channels     |
+| 📊 Bot Statistics         | Monitor bot usage and user statistics       |
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Commands
+
+### Channel & Link Management (Owner/Admins)
+- <b>`/addch <channel_id>`</b> — Add a channel to the bot (admin only)
+- <b>`/delch <channel_id>`</b> — Remove a channel from the bot (admin only)
+- <b>`/channels`</b> — Show all connected channels as buttons (paginated)
+- <b>`/reqlink`</b> — Show all request links for channels (paginated)
+- <b>`/links`</b> — Show all channel links as text (paginated)
+- <b>`/bulklink <id1> <id2> ...`</b> — Generate links for multiple channel IDs at once
+- <b>`/channels`</b> — Show all connected channel IDs and names (paginated, with next/prev buttons and auto-deleting "please wait..." status)
+
+- <b>`/reqtime`</b> — Set the auto-approve request timer duration.
+- <b>`/reqmode`</b> — Toggle auto request approval mode (ON/OFF).
+- <b>`/approveon`</b> — Enable auto request approval for a specific channel.
+- <b>`/approveoff`</b> — Disable auto request approval for a specific channel.
+- <b>`/approveall`</b> — Approve all pending join requests in a channel using userbot (make sure to fill your session string in `approve.py`).
+
+### Admin Commands
+- <b>`/stats`</b> — Show bot stats (owner only)
+- <b>`/status`</b> — Show bot status (admins)
+- <b>`/broadcast`</b> — Broadcast a message to all users (admins)
+- <b>`/cleanup`</b> — Remove inactive users from database (admins)
+
+## 🔑 Environment Variables
+
+Below are the required and optional environment variables for deployment.
+
+```env
+API_ID=              # Required - Get from https://my.telegram.org
+API_HASH=            # Required - From https://my.telegram.org
+TG_BOT_TOKEN=        # Required - Get from @BotFather
+OWNER_ID=            # Required - Your Telegram user ID
+ADMINS=              # Required - Admin user IDs (space separated)
+DB_URL=              # Required - MongoDB connection string
+DB_NAME=             # Optional - MongoDB database name (default: LinkShareBot)
+DATABASE_CHANNEL=    # Required - Private channel ID for link storage
 ```
-- [x] APP_ID - get it from telegram app
-- [x] API_HASH - get it from telegram app
-- [x] TG_BOT_TOKEN - get it from telegram app
-- [x] ADMINS - for 2 or more '12345678 89674523' add space between ids
-- [x] OWNER_ID - Your Telegram id
-- [x] DB_URI - MongoDB URL from [MongoDB Atlas](https://cloud.mongodb.com).
-- [x] DB_NAME - Your MongoDB database name. **Optional**.
-- [x] DATABASE_CHANNEL - add a private channel id (for /genlink cmnd)
+
+⚠️ **Never expose raw credentials or tokens in public repos.** Use safe paste services like [Pastebin](https://pastebin.com) or [Batbin](https://batbin.me).
+
+## 
+
+<details>
+  <summary><b>Where do I get each key?</b></summary>
+
+
+
+  <br/>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Key</th>
+        <th>Where to Get It</th>
+        <th>Steps</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>API_ID</code> &amp; <code>API_HASH</code></td>
+        <td><a href="https://my.telegram.org" target="_blank">my.telegram.org</a> → <i>API Development Tools</i></td>
+        <td>
+          1) Log in with Telegram →
+          2) Open <b>API Development Tools</b> →
+          3) Create app →
+          4) Copy values
+        </td>
+        <td>Keep these private. Needed by both userbot &amp; bot client.</td>
+      </tr>
+      <tr>
+        <td><code>TG_BOT_TOKEN</code></td>
+        <td><a href="https://t.me/BotFather" target="_blank">@BotFather</a></td>
+        <td>
+          1) <b>/newbot</b> →
+          2) Set name &amp; username →
+          3) Copy the token
+        </td>
+        <td>Rotate if leaked. Store in <code>.env</code>.</td>
+      </tr>
+      <tr>
+        <td><code>OWNER_ID</code></td>
+        <td>Telegram <b>Profile</b> you own</td>
+        <td>
+          1) Use <b>@userinfobot</b> or <b>@getmyid_bot</b> →
+          2) Send any message to get your ID →
+          3) Copy the number
+        </td>
+        <td>Must be a single number (yours).</td>
+      </tr>
+      <tr>
+        <td><code>ADMINS</code></td>
+        <td>Telegram <b>Profiles</b> of admins</td>
+        <td>
+          1) Get IDs via <b>@userinfobot</b> →
+          2) Add multiple IDs space-separated →
+          3) Include OWNER_ID if needed
+        </td>
+        <td>Space-separated list of admin IDs.</td>
+      </tr>
+      <tr>
+        <td><code>DB_URL</code></td>
+        <td><a href="https://www.mongodb.com/atlas/database" target="_blank">MongoDB Atlas</a></td>
+        <td>
+          1) Create free cluster →
+          2) Add database user &amp; IP allowlist →
+          3) Copy connection string (<code>mongodb+srv://...</code>)
+        </td>
+        <td>Required for persistence (channels, users, etc.).</td>
+      </tr>
+      <tr>
+        <td><code>DATABASE_CHANNEL</code></td>
+        <td>Telegram <b>Channel</b> you own</td>
+        <td>
+          1) Create private channel →
+          2) Add your bot as admin →
+          3) Get ID via <code>@userinfobot</code> or <code>@getmyid_bot</code>
+        </td>
+        <td>Private channel for link storage.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <br/>
+</details>
+
+## 
+
+### ☕ VPS Setup Guide
+
+<img src="https://img.shields.io/badge/Show%20/Hide-VPS%20Steps-0ea5e9?style=for-the-badge" alt="Toggle VPS Steps"/>
+<div align="left">
+  <details>
+
+```bash
+🎵 Deploy LinkShareBot on VPS
+
+# Step 1: Update & Install Dependencies
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y git curl python3-pip python3-venv ffmpeg unzip tmux
+
+# Step 2: Clone & Setup
+git clone https://github.com/yourusername/LinkShareBot
+cd LinkShareBot
+tmux new -s LinkShareBot
+
+# Inside tmux:
+python3 -m venv venv
+source venv/bin/activate
+pip install -U pip && pip install -r requirements.txt
+
+# Create .env file with your environment variables
+nano .env
+
+# Run the bot
+python3 main.py
+
+### Useful Commands
+tmux detach                      # Use Ctrl+B, then D
+tmux attach-session -t LinkShareBot       # Reattach session
+tmux kill-session -t LinkShareBot         # Kill bot session
+rm -rf LinkShareBot                # Uninstall bot
 ```
-</details>
-<details><summary><b> - ᴄᴏᴍᴍᴍᴀɴᴅs :</summary>
-  
-## 📋 ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs & ғᴇᴀᴛᴜʀᴇs
 
-### ᴄʜᴀɴɴᴇʟ & ʟɪɴᴋ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ (ᴏᴡɴᴇʀ/ᴀᴅᴍɪɴs)
-- <b>/addch &lt;channel_id&gt;</b> — Add a channel to the bot (admin only)
-- <b>/delch &lt;channel_id&gt;</b> — Remove a channel from the bot (admin only)
-- <b>/channels</b> — Show all connected channels as buttons (paginated)
-- <b>/reqlink</b> — Show all request links for channels (paginated)
-- <b>/links</b> — Show all channel links as text (paginated)
-- <b>/bulklink &lt;id1&gt; &lt;id2&gt; ...</b> — Generate links for multiple channel IDs at once
-- <b>/genlink &lt;link&gt;</b> — Store and encode any external link, get a t.me start link for it
-- <b>/channels</b> — Show all connected channel IDs and names
+  </details>
+</div>
 
-- <b>/reqtime</b> — Set the auto-approve request timer duration.
-- <b>/reqmode</b> — Toggle auto request approval mode (ON/OFF).
-- <b>/approveon</b> — Enable auto request approval for a specific channel.
-- <b>/approveoff</b> — Disable auto request approval for a specific channel.
-- <b>/approveall</b> — Approve all pending join requests in a channel using userbot (make sure to fill your session string in <code>approve.py</code>).
+## 
 
-### ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs
-- <b>/stats</b> — Show bot stats (owner only)
-- <b>/status</b> — Show bot status (admins)
-- <b>/broadcast</b> — Broadcast a message to all users (admins)
+### 🐳 Docker Deployment
 
-### ᴏᴛʜᴇʀ ғᴇᴀᴛᴜʀᴇs
-- Fast invite link generation (normal & join request)
-- Invite links auto-revoke after 5 minutes for security
-- Force subscription (FSub) support
-- Bulk and single link management
-- All commands are permission-checked (OWNER_ID/ADMINS)
+<img src="https://img.shields.io/badge/Show%20/Hide-Docker%20Steps-10b981?style=for-the-badge" alt="Toggle Docker Steps"/>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="left">
+  <details>
 
-</details>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```bash
+### Step 1: Clone Repo
+git clone https://github.com/yourusername/LinkShareBot
+cd LinkShareBot
 
-<h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
+### Step 2: Create .env File
+nano .env
+# Paste your environment variables here and save (Ctrl+O, Enter, Ctrl+X)
+
+### Step 3: Build Image
+docker build -t linksharebot .
+
+### Step 4: Run Container
+docker run -d --name linkshare --env-file .env --restart unless-stopped linksharebot
+
+### Step 5: Manage Container
+docker logs -f linkshare        # View logs (Ctrl+C to exit)
+docker stop linkshare           # Stop container
+docker start linkshare          # Start again
+docker rm -f linkshare          # Remove container
+docker rmi linksharebot         # Remove image
+```
+
+  </details>
+</div>
+
+## 
+
+### ☁️ Quick Deploy
+
+| Platform                | Deploy Link                                                                                                                                                                                               |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌍 **Heroku Deploy**    | <a href="http://dashboard.heroku.com/new?template=https://github.com/codeflix-bots/LinkShareBot"><img src="https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku"/></a> |
+
+
+## 💬 Community & Support
 
 <p align="center">
-<a href="https://telegram.me/CodeflixSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+  <a href="https://t.me/codeflixsupport">
+    <img src="https://img.shields.io/badge/Support_Group-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/codeflix_bots">
+    <img src="https://img.shields.io/badge/Updates_Channel-Telegram-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/proyato">
+    <img src="https://img.shields.io/badge/Contact_Owner-Telegram-4CAF50?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:proyato.com">
+    <img src="https://img.shields.io/badge/Contact-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-<p align="center">
-<a href="https://telegram.me/Codeflix_Bots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 
 
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
+### 🔖 Credits
 
-- <b>[sᴀʜɪʟ](https://github.com/Sahil0976/)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/Sahil0976/Links-Sharing) </b>
-- <b>[ᴏʙɪᴛᴏ](https://github.com/proobito)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/ProYato/LinkShareBot) </b>
-- <b>[ʏᴀᴛᴏ](https://github.com/proyato)  ➻  [ᴀᴅᴅᴇᴅ ғᴇᴀᴛᴜʀᴇs](https://github.com/proyato) </b>
-
- 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Codeflix-Bots/linksharebot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴀᴜᴛᴏ ʀᴇɴᴀᴍᴇ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+* <b> *ᴄʀᴀғᴛᴇᴅ ᴡɪᴛʜ ᴘᴀssɪᴏɴ ʙʏ <a href="https://github.com/proyato">ʏᴀᴛᴏ</a>* </b>
